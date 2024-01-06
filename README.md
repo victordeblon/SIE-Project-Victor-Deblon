@@ -9,7 +9,7 @@ This repository contains the Jupyter notebooks for the scientific project "Preci
 
 **3 - Narrow Scope Analysis and Vertical Profile Descriptors.ipynb:** This notebook provides a detailed analysis of specific virga events, including an examination of vertical atmospheric profiles. It offers in-depth insights into the atmospheric conditions associated with virga.
 
-**4 - Case Studies:** This notenook digs deeper into the precipitation observed at surrounding stations on the days of three selected events analysed as case studies. 
+**4 - Case Studies.ipynb:** This notenook digs deeper into the precipitation observed at surrounding stations on the days of three selected events analysed as case studies. 
 
 ## Study Summary
 The study investigates the occurrence of virga events, a phenomenon where precipitation evaporates or sublimates before reaching the ground, leading to significant meteorological implications. By utilizing station measurements, QPE products, and radiosonde data, this research aims to understand the frequency, intensity, and seasonal patterns of virga events in Switzerland.
